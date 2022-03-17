@@ -8,4 +8,4 @@ I'm Amy, a Statistics student at the University of Auckland.
 
 [website](https://alai889.github.io/Stats220/) 
 
-==I love making memes==
+<p style="color:pink">I love making memes.</p>
