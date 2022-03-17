@@ -1,4 +1,4 @@
-# Hello
+# Hello 😸
 I'm Amy, a Statistics student at the University of Auckland. 
 
 ![kermit](https://user-images.githubusercontent.com/100745809/158492969-191eb8aa-fa53-4f5d-b33b-e65f18692f00.gif)
@@ -8,4 +8,4 @@ I'm Amy, a Statistics student at the University of Auckland.
 
 [website](https://alai889.github.io/Stats220/) 
 
-<p style="color:pink">I love making memes.</p>
+:memo: I love making memes
